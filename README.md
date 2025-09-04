@@ -62,7 +62,7 @@ Uma solução web full-stack moderna para delivery de alimentos, projetada para 
 
 - Sistema pronto para uso via link de acesso
 - Acesse agora: [https://delivery-lake.vercel.app/](https://delivery-lake.vercel.app/)
-- Basta copiar e colar o link acima no seu navegador para experimentar todas as funcionalidades
+- Basta clicar no link acima para experimentar todas as funcionalidades
 
 ## 🔒 Segurança
 
