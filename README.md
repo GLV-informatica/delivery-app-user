@@ -1,4 +1,4 @@
-# Black Bull Burgers - Food Delivery App
+# Food Delivery App
 
 Uma aplicação web full-stack moderna para delivery de hambúrgueres com recursos avançados de geolocalização e tempo real.
 
