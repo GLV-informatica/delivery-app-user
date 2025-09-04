@@ -89,8 +89,8 @@ Uma solução web full-stack moderna para delivery de alimentos, projetada para 
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para detalhes.
+Projeto desenvolvido por **GLV Informática e Desenvolvimento**. Todos os direitos reservados.
 
 ---
 
-Desenvolvido para transformar a experiência de delivery e impulsionar o seu negócio.
+Feito com ❤️ para transformar a gestão do seu delivery!
